@@ -69,6 +69,7 @@
     "zod": "^3.25.71"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
     "@typescript-eslint/eslint-plugin": "^8.35.1",
     "@typescript-eslint/parser": "^8.35.1"
   }
